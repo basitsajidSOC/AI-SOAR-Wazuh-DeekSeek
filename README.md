@@ -1,5 +1,5 @@
 # AI-SOAR-Wazuh-DeepSeek
-Real-time integrating Wazuh SIEM, Python log-talling and DeepSeek AI via OpenRouter API 
+Real-time integrating Wazuh SIEM, Python log-tailing and DeepSeek AI via OpenRouter API 
 
 # 🚀 AI-SOAR Sentinel: Wazuh SIEM & DeepSeek AI Automated Incident Triage
 
